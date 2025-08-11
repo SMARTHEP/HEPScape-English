@@ -1,10 +1,10 @@
 # HEPScape-English
 
-This is the first release of the HEPScape video by INFN translated into English by the Early Stage Researchers and affiliated students of the SMARTHEP European Training Network. The translated material (scripts, video direction and presentation material) related to the English version of the HEPScape escape room can be found at this Github link: https://github.com/SMARTHEP/HEPScape-English
+This is the first release of the HEPscape! video by INFN translated into English by the Early Stage Researchers and affiliated students of the SMARTHEP European Training Network. The translated material (scripts, video direction and presentation material) related to the English version of the HEPScape escape room can be found at this Github link: https://github.com/SMARTHEP/HEPScape-English
 
 If you wish to use this material, please cite the Zenodo record as well as the following credits: 
 
-HEPScape has been designed by:
+HEPscape! has been designed by:
 
 Istituto nazionale di fisica nucleare (INFN)
 
