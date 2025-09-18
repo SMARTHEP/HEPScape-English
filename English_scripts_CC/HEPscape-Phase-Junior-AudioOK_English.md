@@ -1,8 +1,9 @@
 English scripts (translated from original)
 ===
 
-# HEPscape-Phase3-Open-English-Final-720-AudioFixed.mp4
-# on zenodo: https://zenodo.org/records/14575673
+## Info
+Video file: HEPscape-Phase3-Open-English-Final-720-AudioFixed.mp4
+Available on zenodo: https://zenodo.org/records/14575673
 
 ## First video: Leon Bozianu (P1) 0:18 to 1.00
 
